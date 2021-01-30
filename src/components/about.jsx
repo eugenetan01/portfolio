@@ -109,7 +109,7 @@ class About extends React.Component {
         {
           id: "second-p-about",
           content:
-            "My core experience lies in Java, C#, RDBMS, Unix shell scripting, multithreading, deployment on various web hosting services and implementing REST-ful web services. I’ve worked on multiple Java Spring boot projects across my professional experience, and I’ve also worked on the Unity Engine using C# as well."
+            "My core experience lies in Java, C#, RDBMS, Unix shell scripting, multithreading, deployment on various web hosting services and implementing REST-ful web services. I’ve worked on multiple Java Spring boot projects across my professional experience, and I’ve also worked on the Unity Engine using C# as well. Aside from that, I've been building up my expertise in front-end technologies like ReactJS and NextJS."
         },
         {
           id: "third-p-about",
