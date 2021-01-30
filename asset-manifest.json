@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/EugenePortfolio/static/css/main.3dfe38d5.chunk.css",
+    "main.js": "/EugenePortfolio/static/js/main.4ef2f2de.chunk.js",
+    "main.js.map": "/EugenePortfolio/static/js/main.4ef2f2de.chunk.js.map",
+    "runtime-main.js": "/EugenePortfolio/static/js/runtime-main.90211b27.js",
+    "runtime-main.js.map": "/EugenePortfolio/static/js/runtime-main.90211b27.js.map",
+    "static/css/2.242f24fe.chunk.css": "/EugenePortfolio/static/css/2.242f24fe.chunk.css",
+    "static/js/2.4b2fe37e.chunk.js": "/EugenePortfolio/static/js/2.4b2fe37e.chunk.js",
+    "static/js/2.4b2fe37e.chunk.js.map": "/EugenePortfolio/static/js/2.4b2fe37e.chunk.js.map",
+    "index.html": "/EugenePortfolio/index.html",
+    "precache-manifest.24817aeeca6a4e73f63ad0be03c45bd6.js": "/EugenePortfolio/precache-manifest.24817aeeca6a4e73f63ad0be03c45bd6.js",
+    "service-worker.js": "/EugenePortfolio/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/EugenePortfolio/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.3dfe38d5.chunk.css.map": "/EugenePortfolio/static/css/main.3dfe38d5.chunk.css.map",
+    "static/js/2.4b2fe37e.chunk.js.LICENSE": "/EugenePortfolio/static/js/2.4b2fe37e.chunk.js.LICENSE",
+    "static/media/CF1.png": "/EugenePortfolio/static/media/CF1.a98ae1f5.png",
+    "static/media/CF2.png": "/EugenePortfolio/static/media/CF2.0a5e554c.png",
+    "static/media/CF3.png": "/EugenePortfolio/static/media/CF3.9c1fd470.png",
+    "static/media/LearnhubPoster.png": "/EugenePortfolio/static/media/LearnhubPoster.3d202b8f.png",
+    "static/media/OverallREMGIS.png": "/EugenePortfolio/static/media/OverallREMGIS.5eed5906.png",
+    "static/media/REMGIS1.png": "/EugenePortfolio/static/media/REMGIS1.9a349edd.png",
+    "static/media/REMGIS2.png": "/EugenePortfolio/static/media/REMGIS2.7285da76.png",
+    "static/media/REMGIS3.png": "/EugenePortfolio/static/media/REMGIS3.a528b08a.png",
+    "static/media/REMGIS4.png": "/EugenePortfolio/static/media/REMGIS4.bdc8f01a.png",
+    "static/media/TranslatorBot.png": "/EugenePortfolio/static/media/TranslatorBot.457d45f2.png",
+    "static/media/earth.jpg": "/EugenePortfolio/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/EugenePortfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ionicons.css": "/EugenePortfolio/static/media/ionicons.621bd386.svg",
+    "static/media/male.png": "/EugenePortfolio/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/EugenePortfolio/static/media/male1.3ec3891b.png",
+    "static/media/myImage.png": "/EugenePortfolio/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90211b27.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.4b2fe37e.chunk.js",
+    "static/css/main.3dfe38d5.chunk.css",
+    "static/js/main.4ef2f2de.chunk.js"
+  ]
+}
