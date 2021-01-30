@@ -183,6 +183,9 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <div className="col-md-4">
+                  <a href="https://www.countlessfridays.com">View more</a>
+                </div>
               </div>
             </div>
           </div>
