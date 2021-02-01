@@ -34,7 +34,7 @@ class Portfolio extends React.Component {
             </div>
           </div>
           <div className="row">
-            <div className="col-md-4">
+            <div className="col-sm d-flex">
               <div className="work-box">
                 <a href={plusminus} data-lightbox="gallery-vmarine">
                   <div className="work-img">
@@ -65,25 +65,24 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <div className="col-md-4">
+                <div className="col-auto">
                   <a href="https://wiki.smu.edu.sg/is480/IS480_Team_wiki:_2017T1_PlusMinus">View more</a>
                 </div>
               </div>
             </div>
-            <div className="col-md-4">
+            <div className="col-sm d-flex">
               <div className="work-box">
                 <a href={remgis} data-lightbox="gallery-aguadeluz">
                   <div className="work-img">
                     <img src={remgis} alt="" className="img-fluid" />
                   </div>
-                  <div> <br /></div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
                         <h2 className="w-title">Geospatial Analytics</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 Javascript R-shiny R <div className="row"><br /></div>
+                            HTML5 Javascript R-shiny R
                           </span>{" "}
                         </div>
                       </div>
@@ -130,18 +129,17 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <div className="col-md-4">
+                <div className="col-auto">
                   <a href="https://wiki.smu.edu.sg/1718t2is415g1/REMGIS_Proposal">View more</a>
                 </div>
               </div>
             </div>
-            <div className="col-md-4">
+            <div className="col-sm d-flex">
               <div className="work-box">
                 <a href={bot} data-lightbox="gallery-todo">
                   <div className="work-img">
                     <img src={bot} alt="" className="img-fluid" />
                   </div>
-                  <div> <br /></div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
@@ -171,7 +169,9 @@ class Portfolio extends React.Component {
                 </div>
               </div>
             </div>
-            <div className="col-md-4">
+          </div>
+          <div className="row">
+            <div className="col-sm d-flex">
               <div className="work-box">
                 <a href={CF1} data-lightbox="gallery-medlingos">
                   <div className="work-img">
@@ -214,14 +214,12 @@ class Portfolio extends React.Component {
                 </div>
               </div>
             </div>
-            <div className="col-md-4">
+            <div className="col-sm d-flex">
               <div className="work-box">
                 <a href={JP1} data-lightbox="gallery-smth">
                   <div className="work-img">
                     <img src={JP1} alt="" className="img-fluid" />
                   </div>
-                  <div> <br /></div>
-                  <div className="row"><br /></div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
@@ -247,7 +245,6 @@ class Portfolio extends React.Component {
                 </a>
                 <div className="col-md-4">
                   <a href="https://www.josephprince.com">View more</a>
-
                 </div>
               </div>
             </div>
