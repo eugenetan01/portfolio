@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.61fec683.chunk.css",
-    "main.js": "/portfolio/static/js/main.274c3c14.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.274c3c14.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.23783999.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.23783999.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.fed7eca6.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.fed7eca6.js.map",
     "static/css/2.242f24fe.chunk.css": "/portfolio/static/css/2.242f24fe.chunk.css",
     "static/js/2.c0b5952e.chunk.js": "/portfolio/static/js/2.c0b5952e.chunk.js",
     "static/js/2.c0b5952e.chunk.js.map": "/portfolio/static/js/2.c0b5952e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.90ba12492e11c81bf5642f69672518c0.js": "/portfolio/precache-manifest.90ba12492e11c81bf5642f69672518c0.js",
+    "precache-manifest.45d2e2f15e0ebd73ae247f9808ab9ae5.js": "/portfolio/precache-manifest.45d2e2f15e0ebd73ae247f9808ab9ae5.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.242f24fe.chunk.css.map": "/portfolio/static/css/2.242f24fe.chunk.css.map",
     "static/css/main.61fec683.chunk.css.map": "/portfolio/static/css/main.61fec683.chunk.css.map",
@@ -17,12 +17,12 @@
     "static/media/CF1.png": "/portfolio/static/media/CF1.a98ae1f5.png",
     "static/media/CF2.png": "/portfolio/static/media/CF2.0a5e554c.png",
     "static/media/CF3.png": "/portfolio/static/media/CF3.9c1fd470.png",
-    "static/media/JP1.png": "/portfolio/static/media/JP1.dbf28de4.png",
+    "static/media/JP1.png": "/portfolio/static/media/JP1.c1d488b4.png",
     "static/media/JP2.png": "/portfolio/static/media/JP2.fe9d6c65.png",
     "static/media/LearnhubPoster.png": "/portfolio/static/media/LearnhubPoster.3d202b8f.png",
     "static/media/OverallREMGIS.png": "/portfolio/static/media/OverallREMGIS.3eed2288.png",
-    "static/media/PlusMinus.png": "/portfolio/static/media/PlusMinus.aa21f07b.png",
-    "static/media/REMGIS.png": "/portfolio/static/media/REMGIS.35244c77.png",
+    "static/media/PlusMinus.png": "/portfolio/static/media/PlusMinus.74518b34.png",
+    "static/media/REMGIS.png": "/portfolio/static/media/REMGIS.73364812.png",
     "static/media/REMGIS1.png": "/portfolio/static/media/REMGIS1.9a349edd.png",
     "static/media/REMGIS2.png": "/portfolio/static/media/REMGIS2.7285da76.png",
     "static/media/REMGIS3.png": "/portfolio/static/media/REMGIS3.a528b08a.png",
@@ -34,13 +34,13 @@
     "static/media/male.png": "/portfolio/static/media/male.a82ab1cd.png",
     "static/media/male1.png": "/portfolio/static/media/male1.3ec3891b.png",
     "static/media/myImage.png": "/portfolio/static/media/myImage.bd80794f.png",
-    "static/media/telegram-bot.jpg": "/portfolio/static/media/telegram-bot.bec326b4.jpg"
+    "static/media/telegram-bot.jpg": "/portfolio/static/media/telegram-bot.9e1e0ffc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fed7eca6.js",
     "static/css/2.242f24fe.chunk.css",
     "static/js/2.c0b5952e.chunk.js",
     "static/css/main.61fec683.chunk.css",
-    "static/js/main.274c3c14.chunk.js"
+    "static/js/main.23783999.chunk.js"
   ]
 }

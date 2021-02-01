@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bcd28e2427d31cd6a76333ce1f82e39",
+    "revision": "b211129209e192e2b84d1004ad70e0ad",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.242f24fe.chunk.css"
   },
   {
-    "revision": "9823dab27a4f228d202a",
+    "revision": "d97320f55bcffa941608",
     "url": "/portfolio/static/css/main.61fec683.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.c0b5952e.chunk.js.LICENSE"
   },
   {
-    "revision": "9823dab27a4f228d202a",
-    "url": "/portfolio/static/js/main.274c3c14.chunk.js"
+    "revision": "d97320f55bcffa941608",
+    "url": "/portfolio/static/js/main.23783999.chunk.js"
   },
   {
     "revision": "6fef3673099b4dcdb973",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/CF3.9c1fd470.png"
   },
   {
-    "revision": "dbf28de4dc737ff420222b9d2f83567b",
-    "url": "/portfolio/static/media/JP1.dbf28de4.png"
+    "revision": "c1d488b4f002d944cc8187602713bd5d",
+    "url": "/portfolio/static/media/JP1.c1d488b4.png"
   },
   {
     "revision": "fe9d6c65749002cf838f3a4766842bff",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/OverallREMGIS.3eed2288.png"
   },
   {
-    "revision": "aa21f07b9a76e3a7aa749dff48e2e9d4",
-    "url": "/portfolio/static/media/PlusMinus.aa21f07b.png"
+    "revision": "74518b3403376cf34106605251a71bf2",
+    "url": "/portfolio/static/media/PlusMinus.74518b34.png"
   },
   {
-    "revision": "35244c770b4237a90412dfe016beed5e",
-    "url": "/portfolio/static/media/REMGIS.35244c77.png"
+    "revision": "7336481263e8b03bcbfce07934c12ced",
+    "url": "/portfolio/static/media/REMGIS.73364812.png"
   },
   {
     "revision": "9a349edd34a3f3974bdf6a2f24bc92a7",
@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/myImage.bd80794f.png"
   },
   {
-    "revision": "bec326b4530f49dc4dfc16b8ca565942",
-    "url": "/portfolio/static/media/telegram-bot.bec326b4.jpg"
+    "revision": "9e1e0ffc54c393e18fc9daefc995960d",
+    "url": "/portfolio/static/media/telegram-bot.9e1e0ffc.jpg"
   }
 ]);
