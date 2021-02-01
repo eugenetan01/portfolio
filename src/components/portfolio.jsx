@@ -1,16 +1,21 @@
 import React from "react";
 
 //import stock
+import plusminus from "../img/PlusMinus.png";
 import learnhub from "../img/LearnhubPoster.png";
 import remgisOverall from "../img/OverallREMGIS.png";
+import remgis from "../img/REMGIS.png";
 import remgis1 from "../img/REMGIS1.png";
 import remgis2 from "../img/REMGIS2.png";
 import remgis3 from "../img/REMGIS3.png";
 import remgis4 from "../img/REMGIS4.png";
-import bot from "../img/TranslatorBot.png";
+import bot1 from "../img/TranslatorBot2.png";
+import bot from "../img/telegram-bot.jpg";
 import CF1 from "../img/CF1.png";
 import CF2 from "../img/CF2.png";
 import CF3 from "../img/CF3.png";
+import JP1 from "../img/JP1.png";
+import JP2 from "../img/JP2.png";
 
 class Portfolio extends React.Component {
   render() {
@@ -31,9 +36,9 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
-                <a href={learnhub} data-lightbox="gallery-vmarine">
+                <a href={plusminus} data-lightbox="gallery-vmarine">
                   <div className="work-img">
-                    <img src={learnhub} alt="" className="img-fluid" />
+                    <img src={plusminus} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
@@ -53,6 +58,13 @@ class Portfolio extends React.Component {
                     </div>
                   </div>
                 </a>
+                <a
+                  href={learnhub}
+                  data-lightbox="gallery-aguadeluz"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
+                </a>
                 <div className="col-md-4">
                   <a href="https://wiki.smu.edu.sg/is480/IS480_Team_wiki:_2017T1_PlusMinus">View more</a>
                 </div>
@@ -60,10 +72,11 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={remgisOverall} data-lightbox="gallery-aguadeluz">
+                <a href={remgis} data-lightbox="gallery-aguadeluz">
                   <div className="work-img">
-                    <img src={remgisOverall} alt="" className="img-fluid" />
+                    <img src={remgis} alt="" className="img-fluid" />
                   </div>
+                  <div> <br /></div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
@@ -81,6 +94,13 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
+                </a>
+                <a
+                  href={remgisOverall}
+                  data-lightbox="gallery-aguadeluz"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={remgis1}
@@ -121,13 +141,14 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={bot} alt="" className="img-fluid" />
                   </div>
+                  <div> <br /></div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
                         <h2 className="w-title">Translator Chatbot</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Python Heroku <div className="row"><br /></div>
+                            Python Heroku
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
                         </div>
@@ -140,6 +161,11 @@ class Portfolio extends React.Component {
                     </div>
                   </div>
                 </a>
+                <a
+                  href={bot1}
+                  data-lightbox="gallery-todo"
+                  style={{ display: "none" }}
+                ></a>
                 <div className="col-md-4">
                   <a href="https://github.com/eugenetan01/TranslatorBot">View more</a>
                 </div>
@@ -154,7 +180,7 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">E-commerce Inventory Backend</h2>
+                        <h2 className="w-title">E-commerce Backend</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
                             GoogleAPI REST ReactJS NextJS
@@ -185,6 +211,43 @@ class Portfolio extends React.Component {
                 </a>
                 <div className="col-md-4">
                   <a href="https://www.countlessfridays.com">View more</a>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="work-box">
+                <a href={JP1} data-lightbox="gallery-smth">
+                  <div className="work-img">
+                    <img src={JP1} alt="" className="img-fluid" />
+                  </div>
+                  <div> <br /></div>
+                  <div className="row"><br /></div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-8">
+                        <h2 className="w-title">Int'l E-commerce store</h2>
+                        <div className="w-more">
+                          <span className="w-ctegory">HTML5 CSS ReactJS PHP Laravel</span>
+                        </div>
+                      </div>
+                      <div className="col-sm-4">
+                        <div className="w-like">
+                          <span className="ion-ios-plus-outline"></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+                <a
+                  href={JP2}
+                  data-lightbox="gallery-smth"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
+                </a>
+                <div className="col-md-4">
+                  <a href="https://www.josephprince.com">View more</a>
+
                 </div>
               </div>
             </div>
