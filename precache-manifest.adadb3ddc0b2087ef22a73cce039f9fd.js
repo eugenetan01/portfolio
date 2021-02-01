@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "173d2c3103a2ac0a4d32ab18d9666191",
+    "revision": "f93a10bf6157378bc74002e4fbabf781",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "3fc9d651598048a31f66",
+    "revision": "f21e1098229953714598",
     "url": "/portfolio/static/css/2.242f24fe.chunk.css"
   },
   {
-    "revision": "4bc1c13e788945bb89ad",
+    "revision": "eb5039ea244aee8ed2f9",
     "url": "/portfolio/static/css/main.61fec683.chunk.css"
   },
   {
-    "revision": "3fc9d651598048a31f66",
-    "url": "/portfolio/static/js/2.a34d4ef4.chunk.js"
+    "revision": "f21e1098229953714598",
+    "url": "/portfolio/static/js/2.c0b5952e.chunk.js"
   },
   {
     "revision": "f2e097a5fa04a5d1b01656a6cd1a1a1a",
-    "url": "/portfolio/static/js/2.a34d4ef4.chunk.js.LICENSE"
+    "url": "/portfolio/static/js/2.c0b5952e.chunk.js.LICENSE"
   },
   {
-    "revision": "4bc1c13e788945bb89ad",
-    "url": "/portfolio/static/js/main.bfc67a57.chunk.js"
+    "revision": "eb5039ea244aee8ed2f9",
+    "url": "/portfolio/static/js/main.bb056297.chunk.js"
   },
   {
     "revision": "6fef3673099b4dcdb973",
@@ -40,12 +40,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/CF3.9c1fd470.png"
   },
   {
+    "revision": "dbf28de4dc737ff420222b9d2f83567b",
+    "url": "/portfolio/static/media/JP1.dbf28de4.png"
+  },
+  {
+    "revision": "fe9d6c65749002cf838f3a4766842bff",
+    "url": "/portfolio/static/media/JP2.fe9d6c65.png"
+  },
+  {
     "revision": "3d202b8f451a88cf6025c2af17bd58c2",
     "url": "/portfolio/static/media/LearnhubPoster.3d202b8f.png"
   },
   {
-    "revision": "5eed5906b68392ce581c33f2b2687ac2",
-    "url": "/portfolio/static/media/OverallREMGIS.5eed5906.png"
+    "revision": "3eed22884242606091a37217bce1d73e",
+    "url": "/portfolio/static/media/OverallREMGIS.3eed2288.png"
+  },
+  {
+    "revision": "aa21f07b9a76e3a7aa749dff48e2e9d4",
+    "url": "/portfolio/static/media/PlusMinus.aa21f07b.png"
+  },
+  {
+    "revision": "35244c770b4237a90412dfe016beed5e",
+    "url": "/portfolio/static/media/REMGIS.35244c77.png"
   },
   {
     "revision": "9a349edd34a3f3974bdf6a2f24bc92a7",
@@ -64,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/REMGIS4.bdc8f01a.png"
   },
   {
-    "revision": "457d45f27e6c84f14cf18e3d54b14c78",
-    "url": "/portfolio/static/media/TranslatorBot.457d45f2.png"
+    "revision": "b4c4b757cd52fa8727ba33bdcc83dfa1",
+    "url": "/portfolio/static/media/TranslatorBot2.b4c4b757.png"
   },
   {
     "revision": "67af05e12311bac06327b43ca31e166b",
@@ -118,5 +134,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bd80794fddbffb4031fab537cc898680",
     "url": "/portfolio/static/media/myImage.bd80794f.png"
+  },
+  {
+    "revision": "bec326b4530f49dc4dfc16b8ca565942",
+    "url": "/portfolio/static/media/telegram-bot.bec326b4.jpg"
   }
 ]);
