@@ -60,7 +60,7 @@ class Portfolio extends React.Component {
                 </a>
                 <a
                   href={learnhub}
-                  data-lightbox="gallery-aguadeluz"
+                  data-lightbox="gallery-vmarine"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
