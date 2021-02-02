@@ -721,6 +721,10 @@ PORTFOLIO
   padding: 2rem 3% 1rem 4%;
 }
 
+.work-content-new {
+  padding: 0.001rem 1% 1rem 4%;
+}
+
 .work-content .w-more {
   color: #4e4e4e;
   font-size: 0.8rem;

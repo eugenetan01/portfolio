@@ -55,9 +55,6 @@ class Portfolio extends React.Component {
                           <span className="ion-ios-plus-outline"></span>
                         </div>
                       </div>
-                      <div className="col-auto">
-                        <a href="https://wiki.smu.edu.sg/is480/IS480_Team_wiki:_2017T1_PlusMinus">View more</a>
-                      </div>
                     </div>
                   </div>
                 </a>
@@ -68,6 +65,14 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <div className="work-content-new">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <a href="https://wiki.smu.edu.sg/is480/IS480_Team_wiki:_2017T1_PlusMinus" className="w-ctegory" target="_blank"
+                        rel="noopener noreferrer">View more</a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="col-sm d-flex">
@@ -91,9 +96,7 @@ class Portfolio extends React.Component {
                           <span className="ion-ios-plus-outline"></span>
                         </div>
                       </div>
-                      <div className="col-auto">
-                        <a href="https://wiki.smu.edu.sg/1718t2is415g1/REMGIS_Proposal">View more</a>
-                      </div>
+
                     </div>
                   </div>
                 </a>
@@ -132,7 +135,14 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-
+                <div className="work-content-new">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <a href="https://wiki.smu.edu.sg/1718t2is415g1/REMGIS_Proposal" className="w-ctegory" target="_blank"
+                        rel="noopener noreferrer">View more</a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="col-sm d-flex">
@@ -157,9 +167,6 @@ class Portfolio extends React.Component {
                           <span className="ion-ios-plus-outline"></span>
                         </div>
                       </div>
-                      <div className="col-md-4">
-                        <a href="https://github.com/eugenetan01/TranslatorBot">View more</a>
-                      </div>
                     </div>
                   </div>
                 </a>
@@ -168,7 +175,14 @@ class Portfolio extends React.Component {
                   data-lightbox="gallery-todo"
                   style={{ display: "none" }}
                 ></a>
-
+                <div className="work-content-new">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <a href="https://github.com/eugenetan01/TranslatorBot" className="w-ctegory" target="_blank"
+                        rel="noopener noreferrer">View more</a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -194,9 +208,6 @@ class Portfolio extends React.Component {
                           <span className="ion-ios-plus-outline"></span>
                         </div>
                       </div>
-                      <div className="col-md-4">
-                        <a href="https://www.countlessfridays.com">View more</a>
-                      </div>
                     </div>
                   </div>
                 </a>
@@ -214,7 +225,14 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-
+                <div className="work-content-new">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <a href="https://www.countlessfridays.com" className="w-ctegory" target="_blank"
+                        rel="noopener noreferrer">View more</a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="col-sm d-flex">
@@ -236,9 +254,6 @@ class Portfolio extends React.Component {
                           <span className="ion-ios-plus-outline"></span>
                         </div>
                       </div>
-                      <div className="col-md-8">
-                        <a-link href="https://www.josephprince.com">View more</a-link>
-                      </div>
                     </div>
                   </div>
                 </a>
@@ -249,6 +264,14 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <div className="work-content-new">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <a href="https://www.josephprince.com" className="w-ctegory" target="_blank"
+                        rel="noopener noreferrer">View more</a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
