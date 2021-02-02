@@ -46,7 +46,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">E-learning portal</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 C# .Net MSSQL Azure
+                            HTML/CSS C# .Net MSSQL Azure
                           </span>
                         </div>
                       </div>
@@ -54,6 +54,9 @@ class Portfolio extends React.Component {
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
                         </div>
+                      </div>
+                      <div className="col-auto">
+                        <a href="https://wiki.smu.edu.sg/is480/IS480_Team_wiki:_2017T1_PlusMinus">View more</a>
                       </div>
                     </div>
                   </div>
@@ -65,9 +68,6 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <div className="col-auto">
-                  <a href="https://wiki.smu.edu.sg/is480/IS480_Team_wiki:_2017T1_PlusMinus">View more</a>
-                </div>
               </div>
             </div>
             <div className="col-sm d-flex">
@@ -90,6 +90,9 @@ class Portfolio extends React.Component {
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
                         </div>
+                      </div>
+                      <div className="col-auto">
+                        <a href="https://wiki.smu.edu.sg/1718t2is415g1/REMGIS_Proposal">View more</a>
                       </div>
                     </div>
                   </div>
@@ -129,9 +132,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <div className="col-auto">
-                  <a href="https://wiki.smu.edu.sg/1718t2is415g1/REMGIS_Proposal">View more</a>
-                </div>
+
               </div>
             </div>
             <div className="col-sm d-flex">
@@ -156,6 +157,9 @@ class Portfolio extends React.Component {
                           <span className="ion-ios-plus-outline"></span>
                         </div>
                       </div>
+                      <div className="col-md-4">
+                        <a href="https://github.com/eugenetan01/TranslatorBot">View more</a>
+                      </div>
                     </div>
                   </div>
                 </a>
@@ -164,9 +168,7 @@ class Portfolio extends React.Component {
                   data-lightbox="gallery-todo"
                   style={{ display: "none" }}
                 ></a>
-                <div className="col-md-4">
-                  <a href="https://github.com/eugenetan01/TranslatorBot">View more</a>
-                </div>
+
               </div>
             </div>
           </div>
@@ -180,7 +182,7 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">E-commerce Backend</h2>
+                        <h2 className="w-title">E-commerce Inventory Backend</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
                             GoogleAPI REST ReactJS NextJS
@@ -191,6 +193,9 @@ class Portfolio extends React.Component {
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
                         </div>
+                      </div>
+                      <div className="col-md-4">
+                        <a href="https://www.countlessfridays.com">View more</a>
                       </div>
                     </div>
                   </div>
@@ -209,9 +214,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <div className="col-md-4">
-                  <a href="https://www.countlessfridays.com">View more</a>
-                </div>
+
               </div>
             </div>
             <div className="col-sm d-flex">
@@ -223,7 +226,7 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Int'l E-commerce store</h2>
+                        <h2 className="w-title">International E-commerce store</h2>
                         <div className="w-more">
                           <span className="w-ctegory">HTML5 CSS ReactJS PHP Laravel</span>
                         </div>
@@ -232,6 +235,9 @@ class Portfolio extends React.Component {
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
                         </div>
+                      </div>
+                      <div className="col-md-8">
+                        <a-link href="https://www.josephprince.com">View more</a-link>
                       </div>
                     </div>
                   </div>
@@ -243,9 +249,6 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <div className="col-md-4">
-                  <a href="https://www.josephprince.com">View more</a>
-                </div>
               </div>
             </div>
           </div>
