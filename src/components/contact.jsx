@@ -103,11 +103,11 @@ class Contact extends React.Component {
                       </div>
                       <div className="more-info">
                         <p className="lead">
-                          Whether you want to get in touch, explore future opportunities,
+                          Whether you want to get in touch, explore future opportunities
                           or just say hi, I'd love to hear from
                           you.
                           <br />
-                          Simply fill the from and send me an email.
+                          Simply fill the form and send me an email.
                         </p>
                       </div>
                       <div className="socials">
