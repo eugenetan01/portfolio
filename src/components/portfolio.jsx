@@ -11,11 +11,14 @@ import remgis3 from "../img/REMGIS3.png";
 import remgis4 from "../img/REMGIS4.png";
 import bot1 from "../img/TranslatorBot2.png";
 import bot from "../img/telegram-bot.jpg";
+import CFLogo from "../img/CFLogo.png";
 import CF1 from "../img/CF1.png";
 import CF2 from "../img/CF2.png";
 import CF3 from "../img/CF3.png";
+import JPLogo from "../img/JPLogo.png";
 import JP1 from "../img/JP1.png";
 import JP2 from "../img/JP2.png";
+import Gcal from "../img/google-calendar.png"
 
 class Portfolio extends React.Component {
   render() {
@@ -189,9 +192,9 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-sm d-flex">
               <div className="work-box">
-                <a href={CF1} data-lightbox="gallery-medlingos">
+                <a href={CFLogo} data-lightbox="gallery-medlingos">
                   <div className="work-img">
-                    <img src={CF1} alt="" className="img-fluid" />
+                    <img src={CFLogo} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
@@ -210,6 +213,13 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
+                </a>
+                <a
+                  href={CF1}
+                  data-lightbox="gallery-medlingos"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={CF2}
@@ -237,9 +247,9 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-sm d-flex">
               <div className="work-box">
-                <a href={JP1} data-lightbox="gallery-smth">
+                <a href={JPLogo} data-lightbox="gallery-smth">
                   <div className="work-img">
-                    <img src={JP1} alt="" className="img-fluid" />
+                    <img src={JPLogo} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
@@ -258,6 +268,13 @@ class Portfolio extends React.Component {
                   </div>
                 </a>
                 <a
+                  href={JP1}
+                  data-lightbox="gallery-smth"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
+                </a>
+                <a
                   href={JP2}
                   data-lightbox="gallery-smth"
                   style={{ display: "none" }}
@@ -268,6 +285,38 @@ class Portfolio extends React.Component {
                   <div className="row">
                     <div className="col-sm-8">
                       <a href="https://www.josephprince.com" className="w-ctegory" target="_blank"
+                        rel="noopener noreferrer">View more</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm d-flex">
+              <div className="work-box">
+                <a href={Gcal} data-lightbox="gallery-mf">
+                  <div className="work-img">
+                    <img src={Gcal} alt="" className="img-fluid" />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-8">
+                        <h2 className="w-title">Timetree-Google Calendar Sync</h2>
+                        <div className="w-more">
+                          <span className="w-ctegory">HTML5 CSS ReactJS PHP Laravel</span>
+                        </div>
+                      </div>
+                      <div className="col-sm-4">
+                        <div className="w-like">
+                          <span className="ion-ios-plus-outline"></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+                <div className="work-content-new">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <a href="https://github.com/eugenetan01/TimeTreeGCalSync" className="w-ctegory" target="_blank"
                         rel="noopener noreferrer">View more</a>
                     </div>
                   </div>
