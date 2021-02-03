@@ -302,7 +302,7 @@ class Portfolio extends React.Component {
                       <div className="col-sm-8">
                         <h2 className="w-title">Timetree-Google Calendar Sync</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">HTML5 CSS ReactJS PHP Laravel</span>
+                          <span className="w-ctegory">Python FastAPI Heroku</span>
                         </div>
                       </div>
                       <div className="col-sm-4">
