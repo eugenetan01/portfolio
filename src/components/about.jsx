@@ -1,5 +1,5 @@
 import React from "react";
-import myImage from "../img/myImage.png";
+import myImage from "../img/MyLogo.png";
 
 class About extends React.Component {
   constructor() {
@@ -9,93 +9,93 @@ class About extends React.Component {
         {
           id: "Java",
           content: "Java",
-          porcentage: "90%",
+          percentage: "90%",
           value: "90"
         },
         {
           id: "C-sharp",
           content: "C#",
-          porcentage: "90%",
+          percentage: "90%",
           value: "90"
         },
         {
           id: "Java Springboot",
           content: "Java Springboot",
-          porcentage: "85%",
+          percentage: "85%",
           value: "85"
         },
         {
           id: "Python_skill",
           content: "Python",
-          porcentage: "85%",
+          percentage: "85%",
           value: "85"
         },
         {
           id: "FastAPI",
           content: "Python FastAPI",
-          porcentage: "85%",
+          percentage: "85%",
           value: "85"
         },
         {
           id: "SQL",
           content: "SQL Relational Database",
-          porcentage: "85%",
+          percentage: "85%",
           value: "85"
         },
         {
           id: "NoSQL",
           content: "NoSQL",
-          porcentage: "85%",
+          percentage: "85%",
           value: "85"
         },
         {
           id: "C-sharp",
           content: ".NET Framework",
-          porcentage: "75%",
+          percentage: "75%",
           value: "75"
         },
         {
           id: "JavaScript_skill",
           content: "JavaScript",
-          porcentage: "70%",
+          percentage: "70%",
           value: "70"
         },
         {
           id: "AWS",
           content: "AWS",
-          porcentage: "70%",
+          percentage: "70%",
           value: "70"
         },
         {
           id: "Microsoft Azure",
           content: "Microsoft Azure",
-          porcentage: "70%",
+          percentage: "70%",
           value: "70"
         },
         {
           id: "R",
           content: "R",
-          porcentage: "70%",
+          percentage: "70%",
           value: "70"
         },
         {
           id: "ReactJS",
           content: "ReactJS",
-          porcentage: "70%",
+          percentage: "70%",
           value: "70"
         },
-        { id: "PHP_skill", content: "PHP Laravel", porcentage: "60%", value: "60" },
+        { id: "PHP_skill", content: "PHP Laravel", percentage: "60%", value: "60" },
 
         {
           id: "HTML5",
           content: "HTML5",
-          porcentage: "60%",
+          percentage: "60%",
           value: "60"
         },
         {
           id: "CSS",
           content: "CSS",
-          porcentage: "60%",
+          percentage: "60%",
           value: "60"
         }
 
@@ -137,38 +137,31 @@ class About extends React.Component {
           <div className="row">
             <div className="col-sm-12">
               <div className="box-shadow-full">
-                <div className="row">
-                  <div className="col-md-6">
-                    <div className="row">
-                      <div
-                        className="col-sm-6 col-md-5"
-                        style={{ margin: "0 auto" }}
-                      >
-                        <div
-                          className="about-img"
-                          style={{ textAlign: "center" }}
-                        >
-                          <img
-                            className="img-fluid rounded b-shadow-a"
-                            alt=""
-                          />
-                        </div>
-                      </div>
+                <div className="col-md-12">
+                  <div className="title-box-2">
+                    <div class="img-container">
+                      <img src={myImage}></img>
                     </div>
-                    <div className="skill-mf">
+                    <h5 className="title-a" style={{ textAlign: "center" }}>About Me</h5>
+                    <div className="line-mf"></div>
+                  </div>
+                </div>
+                <div className="row">
+                  <div className="col-sm-6">
+                    <div className="skill-mf" style={{ paddingTop: "4px" }}>
                       {/* <p className="title-s">Skill</p> */}
                       {this.state.skills.map(skill => {
                         return (
                           <React.Fragment key={skill.id}>
                             <span>{skill.content}</span>{" "}
                             <span className="pull-right">
-                              {skill.porcentage}
+                              {skill.percentage}
                             </span>
                             <div className="progress">
                               <div
                                 className="progress-bar"
                                 role="progressbar"
-                                style={{ width: skill.porcentage }}
+                                style={{ width: skill.percentage }}
                                 aria-valuenow={skill.value}
                                 aria-valuemin="0"
                                 aria-valuemax="100"
@@ -179,11 +172,9 @@ class About extends React.Component {
                       })}
                     </div>
                   </div>
-                  <div className="col-md-6">
+                  <div className="col-sm-6">
                     <div className="about-me pt-4 pt-md-0">
-                      <div className="title-box-2">
-                        <h5 className="title-left">About Me</h5>
-                      </div>
+
                       {this.state.about_me.map(content => {
                         return (
                           <p className="lead" key={content.id}>
