@@ -1090,9 +1090,18 @@ BUTTON
   }
 }
 
-@media only screen and (max-width: 768px) and (max-height: 1024px) {
+@media only screen and (max-width: 767px) {
   .work-box {
     margin-bottom: 1rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background-color: #fff;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) and (max-height: 1024px) {
+  .work-box {
+    margin-bottom: 4rem;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     background-color: #fff;
