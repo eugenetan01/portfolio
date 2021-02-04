@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f89adf83551f6e626522e5c91f68b37",
+    "revision": "de6885b2fadb9479f03370bda62cc276",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "99831cea35ad7656aa9c",
+    "revision": "52b3a9f3adc1b100b956",
     "url": "/portfolio/static/css/2.242f24fe.chunk.css"
   },
   {
-    "revision": "d53ae40fdd63097c24ac",
-    "url": "/portfolio/static/css/main.10b92595.chunk.css"
+    "revision": "1d5279182f52ac6bd7bb",
+    "url": "/portfolio/static/css/main.2504f0bf.chunk.css"
   },
   {
-    "revision": "99831cea35ad7656aa9c",
-    "url": "/portfolio/static/js/2.5438c191.chunk.js"
+    "revision": "52b3a9f3adc1b100b956",
+    "url": "/portfolio/static/js/2.ca229588.chunk.js"
   },
   {
     "revision": "f2e097a5fa04a5d1b01656a6cd1a1a1a",
-    "url": "/portfolio/static/js/2.5438c191.chunk.js.LICENSE"
+    "url": "/portfolio/static/js/2.ca229588.chunk.js.LICENSE"
   },
   {
-    "revision": "d53ae40fdd63097c24ac",
-    "url": "/portfolio/static/js/main.f5497f67.chunk.js"
+    "revision": "1d5279182f52ac6bd7bb",
+    "url": "/portfolio/static/js/main.e898f418.chunk.js"
   },
   {
     "revision": "6fef3673099b4dcdb973",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d202b8f451a88cf6025c2af17bd58c2",
     "url": "/portfolio/static/media/LearnhubPoster.3d202b8f.png"
+  },
+  {
+    "revision": "2d59d47db73b537cdb2b3788ff64481a",
+    "url": "/portfolio/static/media/MyLogo.2d59d47d.png"
   },
   {
     "revision": "3eed22884242606091a37217bce1d73e",
@@ -142,10 +146,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ec3891b37f8b0765b554f10806f0b3f",
     "url": "/portfolio/static/media/male1.3ec3891b.png"
-  },
-  {
-    "revision": "bd80794fddbffb4031fab537cc898680",
-    "url": "/portfolio/static/media/myImage.bd80794f.png"
   },
   {
     "revision": "9e1e0ffc54c393e18fc9daefc995960d",
