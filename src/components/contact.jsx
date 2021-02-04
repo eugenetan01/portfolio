@@ -1,8 +1,5 @@
 import React from "react";
 import imageOverlay from "../img/earth.jpg";
-import { Icon, InlineIcon } from '@iconify/react';
-import vscoIcon from '@iconify-icons/simple-icons/vsco';
-
 
 class Contact extends React.Component {
   render() {
